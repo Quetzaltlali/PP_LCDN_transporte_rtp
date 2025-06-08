@@ -18,8 +18,8 @@ Desarrollar una **solución automatizada basada en ciencia de datos** para optim
 1. **Captura** de datos horarios vía Transit & APIs públicas.  
 2. **ETL** híbrido (Python & R) para limpieza y normalización.  
 3. **Geo-análisis** de 5 estaciones (distancias, zonas críticas).  
-4. **Modelos** SARIMAX (afluencia) y Cadenas de Markov (fallas).  
-5. **Dashboard** interactivo con Power BI.
+4. **Modelos** SARIMAX (afluencia)  
+6. **Dashboard** interactivo con Power BI.
 
 ---
 
